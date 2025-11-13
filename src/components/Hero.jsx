@@ -1,4 +1,4 @@
-import "./Hero.css";
+import "./hero.css";
 import logo from "../assets/buttonLogo.svg"
 import topImg from "../assets/women1.png";
 import videoImg from "../assets/women2.png";

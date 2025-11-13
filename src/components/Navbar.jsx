@@ -1,4 +1,4 @@
-import "./Navbar.css";
+import "./navbar.css";
 import logo from "../assets/Frame.svg"
 import search from "../assets/search.svg"
 
