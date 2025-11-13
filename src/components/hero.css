@@ -1,8 +1,4 @@
-.hero-root {
-  position: relative;
-  min-height: calc(100vh - 86px);
-  overflow: hidden;
-}
+
 
 .hero-inner {
   display: grid;
@@ -78,6 +74,12 @@
 .hero-sparkles {
   position: relative;
   z-index: 2;
+}
+
+.hero-root {
+  position: relative;
+  min-height: calc(100vh - 86px);
+  overflow: hidden;
 }
 
 .media-stack {
