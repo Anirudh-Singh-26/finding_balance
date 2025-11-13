@@ -1,1 +1,2 @@
-I’ve completed the assignment. I replicated everything pixel-perfect on my own without using AI or GPT. I only referred to documentation and online resources for property details. Thank you for providing me this opportunity Sir opportunity.
+I’ve completed the assignment and replicated the design pixel-perfect without using AI or GPT. I only checked documentation and online resources when I needed clarity on a few basic CSS properties. You can view the deployed version here: https://finding-balance-cdpt.vercel.app/
+. Thank you for the opportunity, Sir.
